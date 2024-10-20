@@ -1,5 +1,5 @@
 <h1>Calories Intake Tracker</h1>
-<p>A Calories Intake Tracker is a C program designed to help users track their daily calorie intake by logging food items and their respective calorie content. The program offers a simple and intuitive console interface, making it easy to monitor and manage daily food consumption.</p>
+<p>A Calories Intake Tracker is a program designed to help users track their daily calorie intake by logging food items and their respective calorie content. The program offers a simple and intuitive console interface, making it easy to monitor and manage daily food consumption.</p>
 
 <h2>Features</h2>
 <p>Add Food Items: Input food names and their calorie values.<br>
